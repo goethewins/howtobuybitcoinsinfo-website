@@ -77,18 +77,6 @@ bittybot:
   content: Buy Bitcoins for the Best Prices with BittyBot - the Bitcoin Price Comparison Website
   coins: [BTC]
 
-paxful:
-  icon: http://paxful.com/favicon.png
-  label: Paxful
-  countries: [ad, ae, af, ag, ai, al, am, an, ao, aq, ar, as, at, au, aw, ax, az, ba, bb, bd, be, bf, bg, bh, bi, bj, bl, bm, bn, bo, br, bs, bt, bv, bw, by, bz, ca, cc, cd, cf, cg, ch, ci, ck, cl, cm, cn, co, cr, cu, cv, cx, cy, cz, de, do, dj, dk, dm, dz, ec, ee, eg, eh, er, es, et, fi, fj, fk, fm, fo, fr, ga, gd, ge, gf, gg, gh, gi, gl, gm, gn, gp, gq, gr, gs, gt, gu, gw, gy, hk, hm, hn, hr, ht, hu, id, ie, in, il, im, io, iq, ir, is, it, je, jm, jo, jp, ke, kg, kh, ki, km, kn, kp, kr, kw, ky, kz, la, lb, lc, li, lk, lr, ls, lt, lu, lv, ly, ma, mc, md, me, mf, mg, mh, mk, ml, mm, mn, mo, mp, mq, mr, ms, mt, mu, mv, mw, mx, my, mz, na, nc, ne, nf, ng, ni, nl, no, np, nr, nu, nz, om, pa, pe, pf, pg, ph, pk, pl, pm, pn, pr, ps, pt, pw, py, qa, re, ro, rs, ru, rw, sa, sb, sc, sd, se, sg, sh, si, sj, sk, sl, sm, sn, so, sr, st, sv, sy, sz, tc, td, tf, tg, th, tj, tk, tl, tm, tn, to, tr, tt, tv, tw, tz, ua, ug, uk, um, us, uy, uz, va, vc, ve, vg, vi, vn, vu, wf, ws, ye, yt, za, zm, zw]
-  location: [us]
-  url: https://paxful.com/
-  content: |
-      <p>Need to buy bitcoins fast? Get bitcoin in an hour or less! Based in New York City & featured on FOX Business.</p>
-      <p>Buy Bitcoins instantly with PayPal, cash, check, wire transfer, Western Union, or credit/debit card.</p>
-      <p>On Paxful we connect you to other people to buy coins, not corporations, so it is FAST!</p>
-  coins: [BTC]
-
 quickbitcoin:
   label: QuickBitcoin
   countries: [uk]
@@ -114,6 +102,18 @@ coincafe:
       <p>The fastest New York based exchange. Buy from anywhere in the world. No waiting, no hassles.</p>
       <p>Buy Bitcoins with cash, check, wire transfer, Western Union, or credit/debit card. Or stop by our NYC location to use our ATM!</p>
       <p>Find us on Twitter here: <a href="https://twitter.com/coincafeinc">@CoinCafeInc</></p>
+  coins: [BTC]
+
+paxful:
+  icon: http://paxful.com/favicon.png
+  label: Paxful
+  countries: [ad, ae, af, ag, ai, al, am, an, ao, aq, ar, as, at, au, aw, ax, az, ba, bb, bd, be, bf, bg, bh, bi, bj, bl, bm, bn, bo, br, bs, bt, bv, bw, by, bz, ca, cc, cd, cf, cg, ch, ci, ck, cl, cm, cn, co, cr, cu, cv, cx, cy, cz, de, do, dj, dk, dm, dz, ec, ee, eg, eh, er, es, et, fi, fj, fk, fm, fo, fr, ga, gd, ge, gf, gg, gh, gi, gl, gm, gn, gp, gq, gr, gs, gt, gu, gw, gy, hk, hm, hn, hr, ht, hu, id, ie, in, il, im, io, iq, ir, is, it, je, jm, jo, jp, ke, kg, kh, ki, km, kn, kp, kr, kw, ky, kz, la, lb, lc, li, lk, lr, ls, lt, lu, lv, ly, ma, mc, md, me, mf, mg, mh, mk, ml, mm, mn, mo, mp, mq, mr, ms, mt, mu, mv, mw, mx, my, mz, na, nc, ne, nf, ng, ni, nl, no, np, nr, nu, nz, om, pa, pe, pf, pg, ph, pk, pl, pm, pn, pr, ps, pt, pw, py, qa, re, ro, rs, ru, rw, sa, sb, sc, sd, se, sg, sh, si, sj, sk, sl, sm, sn, so, sr, st, sv, sy, sz, tc, td, tf, tg, th, tj, tk, tl, tm, tn, to, tr, tt, tv, tw, tz, ua, ug, uk, um, us, uy, uz, va, vc, ve, vg, vi, vn, vu, wf, ws, ye, yt, za, zm, zw]
+  location: [us]
+  url: https://paxful.com/
+  content: |
+      <p>Need to buy bitcoins fast? Get bitcoin in an hour or less! Based in New York City & featured on FOX Business.</p>
+      <p>Buy Bitcoins instantly with PayPal, cash, check, wire transfer, Western Union, or credit/debit card.</p>
+      <p>On Paxful we connect you to other people to buy coins, not corporations, so it is FAST!</p>
   coins: [BTC]
 
 cointrader:
